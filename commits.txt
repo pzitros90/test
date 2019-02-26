@@ -1,3 +1,15 @@
+commit 9f50a8459083a5aaa2182281fdcbfd4aa7cab278
+Author: Priscila <ina-github2019@gmail.com>
+Date:   Tue Feb 26 09:04:46 2019 -0600
+
+    Se realiza cambios en todos los menus de los HTML
+
+commit acbe5a5af397acc8d30c8c14f67e8a96b46ed42e
+Author: Priscila <ina-github2019@gmail.com>
+Date:   Tue Feb 26 08:58:33 2019 -0600
+
+    Se realizaron cambios en los menus de todos los html
+
 commit 33e27738d5c63efe4f444a1444524bed16288586
 Author: Priscila <ina-github2019@gmail.com>
 Date:   Wed Feb 20 09:33:33 2019 -0600
