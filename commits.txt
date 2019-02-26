@@ -1,0 +1,35 @@
+commit 33e27738d5c63efe4f444a1444524bed16288586
+Author: Priscila <ina-github2019@gmail.com>
+Date:   Wed Feb 20 09:33:33 2019 -0600
+
+    Se realizó una modificación de los nombres del formulario contacto.html
+
+commit 571363bbf6784bbbd1204d5acd245cf3849cbbd4
+Author: Priscila <ina-github2019@gmail.com>
+Date:   Wed Feb 20 09:17:19 2019 -0600
+
+    Creación de formulario en contacto.html
+
+commit 5664da81cef7fc99504cbc76e5ba0746a5f6e123
+Author: Priscila <ina-github2019@gmail.com>
+Date:   Wed Feb 20 09:05:42 2019 -0600
+
+    Se agrega información de servicios
+
+commit ad02eb052c3c4152d581c74d96d80bb7baf275f2
+Author: Priscila <ina-github2019@gmail.com>
+Date:   Wed Feb 20 09:02:30 2019 -0600
+
+    Se agrega información corporativa en quienes.html
+
+commit e3be51522e4301df28e1999d06a9f54cb0ac2376
+Author: Priscila <ina-github2019@gmail.com>
+Date:   Wed Feb 20 08:52:06 2019 -0600
+
+    Creación del menú
+
+commit c20a8e3329b24bd5794b47d793a06435920552bf
+Author: Priscila <ina-github2019@gmail.com>
+Date:   Wed Feb 20 08:41:39 2019 -0600
+
+    Original
