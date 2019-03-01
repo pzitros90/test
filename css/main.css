@@ -4,19 +4,15 @@
    Author's custom styles
    ========================================================================== */
 
+.jumbotron {
+    background-image: none;
+    background-color: antiquewhite;
+}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+h1{
+	color:blueviolet !important;
+}
+h2{
+   color:antiquewhite !important;
+}
